@@ -1,2 +1,6 @@
 HELLO NIKOLAI
 HELLO ALL
+print(HELLO ALL)
+print(HELLO ALL)
+print(HELLO ALL)
+print(HELLO ALL)
